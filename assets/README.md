@@ -7,7 +7,8 @@ It includes user management, courses, lessons, quizzes, grading, certificates, a
 
 **Video Demo**
 
-<video src="/assets/Demo video.mp4></video>
+<video src="https://github.com/user-attachments/assets/58141ceb-c060-4d9d-9ea3-b30ccac36c44" controls width="100%"></video>
+
 
 > This video explains the structure and flow of the LMS backend project.
 
